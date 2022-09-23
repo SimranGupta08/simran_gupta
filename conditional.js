@@ -7,3 +7,13 @@ if(x<y){
 }else{
     console.log("both")
 }
+
+let t =89;
+let h =67;
+if(t<h){
+    console.log("Yes")
+}else if (t>h){
+    console.log("No")
+}else{
+    console.log("both")
+}
